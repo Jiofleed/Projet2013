@@ -1,0 +1,17 @@
+/** dimensions de la où la conversation a lieu **/
+#conversation 	{ 
+	height:150px;
+	}
+
+/** dimensions de la où les personnes connectées sont affichées **/
+#pseudonyme		{
+	width:500;
+	height:150px;
+	text-align:left;
+	}
+	
+#1
+	{
+	cursor:pointer;
+	}
+	
